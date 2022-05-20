@@ -23,9 +23,12 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * [Cooljer](https://github.com/cooljer) - Arts
 
 ### Special Thanks
-* [jonnycat](https://github.com/McJonnycat) - Fixing bugs in Engine <3.
+* [jonnycat](https://github.com/McJonnycat)- Fixing bugs in Engine <3.
 
-## Psych Engine Credits:
+## Android Version
+[DxGamer](https://github.com/Amogus142)- Android Porter :).
+
+##Psych Engine Credits:
 * Shadow Mario - Coding
 * RiverOaken - Arts and Animations
 * bbpanzu - Assistant Coding
